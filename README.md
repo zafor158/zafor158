@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Md.Abu Zafor</h1>
 <h3 align="center">A Passionate AI Enthusiast, Image Processing & Big Data Analyst from Bangladesh</h3>
 
@@ -14,8 +12,6 @@
 - 💬 Ask me about **Machine Leaning,Deep Learning and NLP**
 
 - 📫 How to reach me **zafor.cseewubd2020@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAGWhLJTy4k/SUMFMFlbS3TDdGRnPgOLWw/edit?utm_content=DAGWhLJTy4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGWhLJTy4k/SUMFMFlbS3TDdGRnPgOLWw/edit?utm_content=DAGWhLJTy4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **I think I am passionate about my work**
 
@@ -32,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zafor158&show_icons=true&locale=en&layout=compact" alt="zafor158" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zafor158&show_icons=true&locale=en" alt="zafor158" /></p>
-
--->
