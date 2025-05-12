@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafor158" alt="zafor158" /></a> </p>
 
-- 🔭 I’m currently working as a Research Assistant 
+- 🔭 I’m currently working as a **Research Assistant**  under the mentorship
+ of Dr. Abdullahi Chowdhury atChowdhuryAIandCybersecurityResearchLabABN32107818005,Adelaide.
 
 - 🌱 I’m currently learning **AI,Big Data analysis and Research**
 
