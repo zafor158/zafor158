@@ -8,6 +8,8 @@
 - 🔭 I’m currently working as a **Research Assistant**  under the mentorship
  of Dr. Abdullahi Chowdhury at Chowdhury AI and Cybersecurity Research Lab ABN 32107818005,Adelaide.
 
+-  I am currently working at Mondaysys as an AI Engineer.
+
 - 🌱 I’m currently learning **AI,Big Data analysis and Research**
 
 - 💬 Ask me about **Machine Leaning,Deep Learning and NLP**
