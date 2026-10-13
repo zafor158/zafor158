@@ -58,6 +58,13 @@ For me, AI tools speed up the work, but making sure the code is correct and secu
 - **[Q1 Journal, Submitted]** *Navigating the Epistemic Shift: A Comprehensive Guide to Conducting Systematic Literature Reviews in Generative AI*
 - **[Conference, Submitted]** *Systematic Literature Reviews: A Practical Guide and an Open Tool*
 
+### 🏅 Achievements and activities
+
+- 🥇 **Best Paper Award**, International Conference on Data Mining and Information Security (ICDMIS 2024), Kolkata, India
+- 🤖 **3rd Place**, Robosoccer Contest, National CSE Fest, East West University Robotics Club (2024)
+- 🌐 **Sub-Executive Member, Website Management**, East West University Electronics Club *(Jun 2023 – Feb 2024)*: maintained and updated the club's official website, publishing event announcements and activity records
+- 💻 **General Member**, East West University Computer Programming Club *(Jun 2022 – Feb 2025)*: organised programming workshops and competitions and volunteered at university tech events
+
 ### 🤝 Connect with me
 
 <p align="left">
